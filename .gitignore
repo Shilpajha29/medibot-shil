@@ -11,6 +11,7 @@ env/
 
 # Vectorstore / models (optional, if huge)
 vectorstore/
+data/
 
 # IDEs
 .vscode/
