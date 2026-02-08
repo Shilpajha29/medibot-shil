@@ -9,9 +9,7 @@ venv/
 env/
 *.env
 
-# Vectorstore / models (optional, if huge)
-vectorstore/
-data/
+
 
 # IDEs
 .vscode/
